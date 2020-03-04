@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1583310991 source:c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\graph.cpp
+
+1583311066 source:c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\sommet.cpp
+
+1583311589 source:c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\main.cpp
+	"biblio.h"
+
+1583317468 c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\biblio.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<queue>
+	"sommet.h"
+	"graph.h"
+
+1583317068 c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\sommet.h
+	"biblio.h"
+
+1583317454 c:\users\grego\onedrive\documents\ece\annee 2019-2020 - ing2\informatique\td-tp\s2\td-tp2\bfs avec file\graph.h
+	"biblio.h"
+
